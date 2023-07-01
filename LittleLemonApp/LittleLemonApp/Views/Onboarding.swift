@@ -2,8 +2,6 @@
 //  Onboarding.swift
 //  LittleLemonApp
 //
-//  Created by Jevgeni Vakker on 18.03.2023.
-//
 
 import SwiftUI
 
